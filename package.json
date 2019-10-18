@@ -1,0 +1,21 @@
+{
+    "name": "node-js-server-side-example",
+    "version": "0.3.0",
+    "description": "A sample Node.js app",
+    "engines": {
+      "node": "10.x"
+    },
+    "main": "serverside.js",
+    "scripts": {
+      "start": "node serverside.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/santhoshkumarbollena/server_side_programming"
+    },
+    "keywords": [
+      "node",
+      "heroku"
+    ],
+    "license": "None"
+  }
